@@ -1,0 +1,5 @@
+C:\Users\PC-1\Downloads\FlexSpace\FlexSpace.DAL\obj\Debug\net8.0\FlexSpace.DAL.csproj.AssemblyReference.cache
+C:\Users\PC-1\Downloads\FlexSpace\FlexSpace.DAL\obj\Debug\net8.0\FlexSpace.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Downloads\FlexSpace\FlexSpace.DAL\obj\Debug\net8.0\FlexSpace.DAL.AssemblyInfoInputs.cache
+C:\Users\PC-1\Downloads\FlexSpace\FlexSpace.DAL\obj\Debug\net8.0\FlexSpace.DAL.AssemblyInfo.cs
+C:\Users\PC-1\Downloads\FlexSpace\FlexSpace.DAL\obj\Debug\net8.0\FlexSpace.DAL.csproj.CoreCompileInputs.cache
