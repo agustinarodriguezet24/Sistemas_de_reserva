@@ -1,2 +1,0 @@
-C:\Users\PC-1\Downloads\FlexSpace\FlexSpace.DAL\obj\Debug\FlexSpace.DAL.csproj.AssemblyReference.cache
-C:\Users\PC-1\Downloads\FlexSpace\FlexSpace.DAL\obj\Debug\FlexSpace.DAL.csproj.CoreCompileInputs.cache

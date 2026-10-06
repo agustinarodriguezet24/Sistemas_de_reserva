@@ -1,2 +1,0 @@
-C:\Users\PC-1\Downloads\FlexSpace\FlexSpace.BLL\obj\Debug\FlexSpace.BLL.csproj.AssemblyReference.cache
-C:\Users\PC-1\Downloads\FlexSpace\FlexSpace.BLL\obj\Debug\FlexSpace.BLL.csproj.CoreCompileInputs.cache
